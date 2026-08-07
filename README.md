@@ -6,7 +6,7 @@ Welcome to my central repository for tracking my Python journey, core coding con
 
 | Project / Topic | File | Description |
 | :--- | :--- | :--- |
-| **01. Target & Savings Calculator** | [`savings_calculator.ipynb`](./savings_calculator.ipynb) | Script calculating USD to KES income and savings goals. |
+| **01. Target & Savings Calculator** | [`savings_calculator.ipynb`](https://github.com/Phreekit/python-fundamentals/blob/main/savings_calculator.ipynb) | Script calculating USD to KES income and savings goals. |
 | **02. Variables & Data Types** | *Coming Soon* | Practicing string formatting, conditionals, and logical operators. |
 | **03. Control Flow & Loops** | *Coming Soon* | Working with `if/else` statements, `for` loops, and `while` loops. |
 
