@@ -17,4 +17,4 @@ Welcome to my central repository for tracking my Python journey, core coding con
 2. Click the **Open in Colab** badge at the top of the file to execute the code interactively.
 3. Or clone the repository locally:
    ```bash
-   git clone [https://github.com/Phreekit/python-fundamentals.git](https://github.com/Phreekit/python-fundamentals.git)
+   git clone https://github.com/Phreekit/python-fundamentals.git
